@@ -48,4 +48,4 @@ def calcula_preco_teto(media_dividendos, taxa_retorno_esperada):
     return preco_teto
 
 #%%
-calcula_preco_teto(pagamento_medio, 0.10)
+calcula_preco_teto(pagamento_medio, 0.08)
